@@ -1,5 +1,5 @@
 # Music Player Application
-View Site: https://primemusic.netlify.app/
+View Site: https://zplaymusic.netlify.app/
 ## Overview
 This Music Player Application allows users to play, manage, and organize their music library. It supports various audio formats and provides a seamless listening experience with a clean and intuitive interface.
 
